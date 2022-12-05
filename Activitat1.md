@@ -9,7 +9,10 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -   Instal·lació Moodle (1p).
 - Inserir les captures de pantalla dels moments delicats de la instal·lació, explicant què es fa a la captura (4 punts).
   -   Instal·lació APACHE (1p).
+  -   
   -   Instal·lació BBDD (1p).
+  -   ![image](https://user-images.githubusercontent.com/119657664/205691244-383b35b5-6221-4ca3-b1db-bafc98d7186a.png)
+
   -   Instal·lació PHP (1p).
   -   Instal·lació Moodle (1p).
 - Documentar els problemes que hem tingut durant la instal·lació (2 punts).
