@@ -11,8 +11,9 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -   Instal·lació APACHE (1p).
   -   
   -   Instal·lació BBDD (1p).
-  -   ![image](https://user-images.githubusercontent.com/119657664/205691244-383b35b5-6221-4ca3-b1db-bafc98d7186a.png)
+  -   ![Captura de pantalla de 2022-12-05 17-30-45](https://user-images.githubusercontent.com/119657664/205691550-7cfb63a9-4b1c-4a89-b73d-5b93bcc60155.png)
 
+  -   ![image](https://user-images.githubusercontent.com/119657664/205691244-383b35b5-6221-4ca3-b1db-bafc98d7186a.png)
   -   Instal·lació PHP (1p).
   -   Instal·lació Moodle (1p).
 - Documentar els problemes que hem tingut durant la instal·lació (2 punts).
