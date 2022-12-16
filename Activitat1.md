@@ -17,6 +17,7 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -      Després, ens fa instal·lar dues dependències per a poder continuar amb la instal·lació, i després confirmar les rutes de la direcció de dades, etc.
   -      EL seguent pas es seleccionar el controlador de la base de dades,que en el nostre cas es MYSQL. Després el pas seguent es posar les nostres credencials, nom de la base de dades, nom d'usuari, etc.
   -      Després ens demana també varies dependències requerides per poder continuar, les instal·lem, recarregem el servidor apache i ja podem continuar.
+  -      Un cop a la seguent pantalla d'instal·lació, es fan les comprovacions del servidor, i moodle et diu que et fa falta i que ja tens instal·lat.
 - Inserir les captures de pantalla dels moments delicats de la instal·lació, explicant què es fa a la captura (4 punts).
   -   Instal·lació APACHE (1p).
   -   ![image](https://user-images.githubusercontent.com/119657664/205694636-757b20d0-c272-4a2a-8f0b-f69ec6728cfa.png)
