@@ -8,6 +8,7 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -   Instal·lació BBDD (1p).
   -      Aqui mes o menys el mateix,instal·lem la base de dades i despres amb el mysql rot provem de connectar-nos i veure si funciona
   -   Instal·lació PHP (1p).
+  -       Primer el que fem es instal·lar el software del php amb la versió corresponent, en el nostre cas la versió 7.4, i desprès descarregem e instal·lem les llibreries.
   -   Instal·lació Moodle (1p).
 - Inserir les captures de pantalla dels moments delicats de la instal·lació, explicant què es fa a la captura (4 punts).
   -   Instal·lació APACHE (1p).
