@@ -6,7 +6,7 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
   -   Instal·lació APACHE (1p).
   -     Per instal·lar apache simplement executem la comanda sudo apt-get install apache2, que es el servei que utilitzarem
   -   Instal·lació BBDD (1p).
-          Aqui mes o menys el mateix,instal·lem la base de dades i despres amb el mysql rot provem de connectar-nos i veure si funciona
+          -Aqui mes o menys el mateix,instal·lem la base de dades i despres amb el mysql rot provem de connectar-nos i veure si funciona
   -   Instal·lació PHP (1p).
   -   Instal·lació Moodle (1p).
 - Inserir les captures de pantalla dels moments delicats de la instal·lació, explicant què es fa a la captura (4 punts).
