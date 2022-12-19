@@ -13,5 +13,5 @@ Un cop tenim instal·lat Moodle i tenim el nostre usuari administrador crearem u
 
 
 Activitat:
-  -Creem una categoria pare la cual es la del modul.
+  -  Creem una categoria pare la cual es la del modul.
 ![image](https://user-images.githubusercontent.com/119657664/208471595-8bf01cb3-9fa2-4c46-8054-a0acd33f87c8.png)
