@@ -21,3 +21,6 @@ Activitat:
 
     -   I ara anem creant els grups demanats
 ![image](https://user-images.githubusercontent.com/119657664/208476994-d5256873-8e83-407b-9ed1-c08bff976764.png)
+
+    -   Aquests serien els grups corresponents al 1r curs.
+![image](https://user-images.githubusercontent.com/119657664/208477437-e168dcfd-b09c-4401-a427-ba3ef1ac5032.png)
