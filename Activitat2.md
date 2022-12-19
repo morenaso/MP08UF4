@@ -24,3 +24,5 @@ Activitat:
 
     -   Aquests serien els grups corresponents al 1r curs.
 ![image](https://user-images.githubusercontent.com/119657664/208477437-e168dcfd-b09c-4401-a427-ba3ef1ac5032.png)
+     - I aquests son els grups demanats per al 2n curs
+![image](https://user-images.githubusercontent.com/119657664/208477971-2e8aeb81-dc37-442e-a81d-8b8e8e90942c.png)
