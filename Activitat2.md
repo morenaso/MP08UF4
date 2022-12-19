@@ -18,3 +18,6 @@ Activitat:
 
     - Després anem creant les diferents subcategories corresponents.
 ![image](https://user-images.githubusercontent.com/119657664/208473483-50f528c1-1ada-45c6-980a-3f95634a89ad.png)
+
+    -   I ara anem creant els grups demanats
+    ![image](https://user-images.githubusercontent.com/119657664/208476994-d5256873-8e83-407b-9ed1-c08bff976764.png)
