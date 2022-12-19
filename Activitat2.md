@@ -29,3 +29,7 @@ Activitat:
     - I si anem a administración de cursos i categorias, podem veure que dins del curs estan creats els grups.
 ![image](https://user-images.githubusercontent.com/119657664/208478300-2b61cebb-31de-4ff7-91a2-d1d730874843.png)
 ![image](https://user-images.githubusercontent.com/119657664/208478352-dcbe91cd-90e4-48d0-a17a-47441b4d7a1b.png)
+
+![image](https://user-images.githubusercontent.com/119657664/208487350-64d2c4fa-00cb-4f36-b57a-fbb9a22181c4.png)
+
+![image](https://user-images.githubusercontent.com/119657664/208487599-57f6e627-7f1b-4cc7-b636-0bfb2b0d5ac1.png)
