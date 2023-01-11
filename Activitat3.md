@@ -31,6 +31,9 @@ Un professor No editor anomenat Cognom_3_profe.
 image
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+![image](https://user-images.githubusercontent.com/119657664/211905304-c9a516c9-393d-4931-9025-398e09b88911.png)
+
+
 
 
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
