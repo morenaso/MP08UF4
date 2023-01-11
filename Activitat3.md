@@ -23,6 +23,7 @@ Un professor No editor anomenat Cognom_3_profe.
 
 
 4. Crea un alumne anomenat Cognom_1_alumne.
+![image](https://user-images.githubusercontent.com/119657664/211903571-8d4a36d2-061e-4343-916d-cbb3f7c4166b.png)
 
 
 5. Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
