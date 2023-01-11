@@ -11,6 +11,7 @@
 
 
 Un Professor anomenat Cognom_1_profe.
+![image](https://user-images.githubusercontent.com/119657664/211898521-2d33f4a0-a993-4320-a338-11caac6073ab.png)
 
 
 Un Professor anomenat Cognom_2_profe.
