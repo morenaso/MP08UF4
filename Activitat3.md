@@ -19,39 +19,39 @@ Un Professor anomenat Cognom_2_profe.
 Un professor No editor anomenat Cognom_3_profe.
 
 
-Crea un alumne anomenat Cognom_1_alumne.
+4. Crea un alumne anomenat Cognom_1_alumne.
 
 
-Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+5. Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 image
 
-Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 
 
-Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
 
-Fes que Cognom_3_profe sigui professor de tots els cursos.
+8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
 
-Afegeix a tots els alumnes a tots els cursos (els 5).
+9. Afegeix a tots els alumnes a tots els cursos (els 5).
 
 
-Mostra l'apartat Participants de cada curs.
+10. Mostra l'apartat Participants de cada curs.
 
 
-Què són les Cohorts?
+11. Què són les Cohorts?
 
 
-Perquè serveixen?
+12. Perquè serveixen?
 
 
-Què són els grups?
+13. Què són els grups?
 
 
-Perquè serveixen?
+14.Perquè serveixen?
 
 
-Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+15 Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
 
