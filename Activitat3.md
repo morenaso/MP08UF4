@@ -10,17 +10,6 @@ Quins rols poden assignar cada tipus d'usuaris?
 
 
 
-
-
-Professor.
-Professor sense permís dedició.
-Estudiant.
-Convidat.
-Usuari identificat.
-Usuari identificat a la pàgina principal.
-Crea tres usuaris:
-
-
 Un Professor anomenat Cognom_1_profe.
 
 
