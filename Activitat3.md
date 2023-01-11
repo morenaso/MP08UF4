@@ -15,9 +15,11 @@ Un Professor anomenat Cognom_1_profe.
 
 
 Un Professor anomenat Cognom_2_profe.
+![image](https://user-images.githubusercontent.com/119657664/211902908-a07bf331-964c-45cc-9b1d-2ee5bd6e52d4.png)
 
 
 Un professor No editor anomenat Cognom_3_profe.
+![image](https://user-images.githubusercontent.com/119657664/211902754-34484abf-b936-4c5b-a55b-5d0da19b3c45.png)
 
 
 4. Crea un alumne anomenat Cognom_1_alumne.
