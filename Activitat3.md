@@ -48,6 +48,7 @@ image
 
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
+![image](https://user-images.githubusercontent.com/119657664/212047139-93c1301c-4ff7-40df-b33a-4e2bac26e66a.png)
 
 
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
