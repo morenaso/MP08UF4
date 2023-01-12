@@ -32,11 +32,19 @@ image
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 ![image](https://user-images.githubusercontent.com/119657664/211905304-c9a516c9-393d-4931-9025-398e09b88911.png)
+![image](https://user-images.githubusercontent.com/119657664/212045284-29c3af68-de94-4fe6-8f9d-1cb20aa1cc83.png)
+![image](https://user-images.githubusercontent.com/119657664/212045372-18ce1c7a-a571-4daf-9873-67a27179a331.png)
+![image](https://user-images.githubusercontent.com/119657664/212045459-da7cc243-1b35-4a50-9c33-eec05d2f6cd4.png)
 
 
 
 
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+![image](https://user-images.githubusercontent.com/119657664/212045618-7a92121d-54c1-4b44-8437-b98dd6930cde.png)
+![image](https://user-images.githubusercontent.com/119657664/212045726-382f9525-bbba-41da-be2a-520c02dded76.png)
+![image](https://user-images.githubusercontent.com/119657664/212045819-0914ece2-61f7-4ad2-ab47-40d1c12c1048.png)
+
+
 
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
