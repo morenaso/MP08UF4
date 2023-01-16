@@ -36,13 +36,30 @@
 
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+
 - Inscriu a tots els alumnes al curs.
+
+
 - Inscriu a tots els professors al curs.
+
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+
 - Fes que dos estudiants fassin consultes al fòrum.
+
+
 - Contesta les preguntes amb un perfil de professor.
+
+
 - Crea un tema anomenat "Fonaments de Python".
+
+
 - Oculta la resta de temes del curs.
+
+
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
 - Fes que els alumnes contestin la tasca (mínim 3).
 - Qualifica la tasca de l'alumnat.
