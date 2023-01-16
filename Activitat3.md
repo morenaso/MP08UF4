@@ -58,6 +58,7 @@ image
 
 
 11. Què són les Cohorts?
+  - Les cohorts són grups a tota l'amplada del lloc o de tota una categoria de cursos. El propòsit de les cohorts és permetre a tots els membres de la cohort ser inscrits facilment en un curs
 
 
 12. Perquè serveixen?
