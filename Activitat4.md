@@ -118,7 +118,7 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
 [Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
 
-- Els passsos a seguir son els seguents: anem a apariencia, selector de temas, i un cop dins cliquem a "borrar memoria caché".
+- Els passos a seguir son els seguents: anem a apariencia, selector de temas, i un cop dins cliquem a "borrar memoria caché".
 - Després seleccionem el tema per defefte que ja teniem, i tot seguit escollim el seguent que volem utilitzar,i simplement posem "usar este tema" i ja esta.
 ![image](https://user-images.githubusercontent.com/119657664/214025807-564609a1-f021-4d02-9a81-ad82a919906e.png)
 
