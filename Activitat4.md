@@ -89,6 +89,7 @@
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
+![image](https://user-images.githubusercontent.com/119657664/214022676-c9acface-16f7-42f6-96bd-4b1a7cc12c1b.png)
 
 
 # Plugins:
