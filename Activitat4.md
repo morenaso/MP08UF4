@@ -95,6 +95,8 @@
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+  - Em surt aquest error, es de permisos i entenc que li he de donar permisos, la cosa es que no se com ja que el tinc descarregat a la maquina real i no a la maquina on hi tinc instal·lat el moodle
+![image](https://user-images.githubusercontent.com/119657664/214023980-1e49acb7-5ae9-409d-b99f-59539bdab208.png)
 
 
 # Personalització del tauler d'usuaris:
