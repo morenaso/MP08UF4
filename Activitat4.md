@@ -83,7 +83,7 @@
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
-- Ho he fet des de casa, i no puc blocar cap ip de cap company perq no recordo quirang d'adreçes es.
+- Ho he fet des de casa, i no puc blocar cap ip de cap company perq no recordo quin rang d'adreçes es.
 
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
