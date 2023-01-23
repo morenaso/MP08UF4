@@ -37,14 +37,18 @@
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
 
+![image](https://user-images.githubusercontent.com/119657664/214018164-f1dc25ad-d0ff-46be-93c3-aa4cce904ff6.png)
 
 - Inscriu a tots els alumnes al curs.
+![image](https://user-images.githubusercontent.com/119657664/214018249-afcedea8-4fda-4af7-82c1-e3e2c5c600b9.png)
 
 
 - Inscriu a tots els professors al curs.
 
+![image](https://user-images.githubusercontent.com/119657664/214018341-8436c72e-e4cd-47c6-9834-1ab9b220666b.png)
 
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+![image](https://user-images.githubusercontent.com/119657664/214018651-38cc2dc4-403d-463e-ad40-6440f2f30aea.png)
 
 
 - Fes que dos estudiants fassin consultes al fòrum.
@@ -54,10 +58,12 @@
 
 
 - Crea un tema anomenat "Fonaments de Python".
+![image](https://user-images.githubusercontent.com/119657664/214019364-b113c161-6c3e-4f8c-80a3-958961d643cb.png)
 
 
 - Oculta la resta de temes del curs.
 
+![image](https://user-images.githubusercontent.com/119657664/214019492-6117d5f5-19ec-4e69-9145-aebf598882cb.png)
 
 
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
