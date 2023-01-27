@@ -88,6 +88,11 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 
 - Recuperareu el curs al seu Moodle.
 - ![image](https://user-images.githubusercontent.com/119657664/215130130-a6214674-06ae-4e4f-a3d3-ac4203ba5e43.png)
+![Captura de pantalla de 2023-01-27 16-55-54](https://user-images.githubusercontent.com/119657664/215131493-e0727e9c-6f55-4937-a0ae-3a039325d000.png)
+![Captura de pantalla de 2023-01-27 16-56-49](https://user-images.githubusercontent.com/119657664/215131577-32a0525c-143a-4497-8845-b42e47013195.png)
+![Captura de pantalla de 2023-01-27 16-57-10](https://user-images.githubusercontent.com/119657664/215131647-f0dd0103-64fc-45da-991f-f3dcb1fe21a6.png)
+![Captura de pantalla de 2023-01-27 16-59-07](https://user-images.githubusercontent.com/119657664/215131678-b03187fd-8a6f-479c-a82d-d3e4e98b4d66.png)
+
 
 - Comprovareu que tot funciona correctament.
 - Aquest procés serà recíproc entre els dos companys/es de grup.
