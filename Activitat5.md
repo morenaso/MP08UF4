@@ -84,6 +84,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 
 
 - Passareu el fitxer al server del company/a de grup.
+- ![image](https://user-images.githubusercontent.com/119657664/215129453-243d74b3-936b-4df1-b2c5-222372fd61ba.png)
+
 - Recuperareu el curs al seu Moodle.
 - Comprovareu que tot funciona correctament.
 - Aquest procés serà recíproc entre els dos companys/es de grup.
