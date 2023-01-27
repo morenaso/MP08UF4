@@ -87,6 +87,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - ![image](https://user-images.githubusercontent.com/119657664/215129453-243d74b3-936b-4df1-b2c5-222372fd61ba.png)
 
 - Recuperareu el curs al seu Moodle.
+- ![image](https://user-images.githubusercontent.com/119657664/215130130-a6214674-06ae-4e4f-a3d3-ac4203ba5e43.png)
+
 - Comprovareu que tot funciona correctament.
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
